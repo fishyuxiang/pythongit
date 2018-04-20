@@ -1,10 +1,24 @@
-print(100+200)
-name="aaaa"
-print(name)
-print(1000)
-print(1000)
+def power(x):
+    return x*x
 
-print(1000)
-print(1000)
-print(100011111133)
-print(100000022211883333441133)
+power(5)
+
+
+def power(x,n)
+    s=1
+    while n>0:
+        n=n-1
+        s=s*x
+    return s
+
+power(5,2)
+
+
+def power(x,n=2)
+    s=1
+    while n>0:
+        n=n-1
+        s=s*x
+    return s
+
+power(5)
