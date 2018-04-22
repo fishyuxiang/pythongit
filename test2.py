@@ -19,3 +19,4 @@ def calc(*numbers):
     return sum
 
 calc(1,2,3)
+calc(1,2,3,4,5)
