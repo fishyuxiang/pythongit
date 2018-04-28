@@ -18,5 +18,5 @@ def calc(*numbers):
         sum=sum+n*n
     return sum
 
-calc(1,2,3)
+
 calc(1,2,3,4,5)
