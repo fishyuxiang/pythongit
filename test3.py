@@ -4,7 +4,7 @@ def add_end(L=None):
     L.append('END')
     return L
 add_end()
-
+aa
 def calc(numbers):
     sum=0
     for n in numbers:
