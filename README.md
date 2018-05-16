@@ -1,2 +1,0 @@
-# pythongit
-empty
