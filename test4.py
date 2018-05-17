@@ -15,3 +15,14 @@ def normalize(name):
 
 L2=list(map(normalize,L1))
 print(L2)
+
+
+def calc_sum(*args):
+    ax=0
+    for n in args:
+        ax=ax+n
+    return ax
+
+
+
+
