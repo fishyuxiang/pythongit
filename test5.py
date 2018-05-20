@@ -10,7 +10,10 @@ def greeting(name):
     else:
         return _private_2(name)
 
+class Student(object):
+    pass
 
-a=1000
 
-s='heheh'
+s=Student()
+s.name='yuxiang'
+print(s.name)
