@@ -17,4 +17,4 @@ class Student(object):
 s=Student()
 s.name='yuxiang'
 print(s.name)
-abcdefgh
+
